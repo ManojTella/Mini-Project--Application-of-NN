@@ -16,6 +16,13 @@ Rainfall Prediction is the application of science and technology to predict the 
 
 ## Program:
 ```
+Developed By Team Members:
+1.Manoj Guna Sundar Tell.
+2.P.Siva Naga Nithin.
+3.D.Amarnath Reddy.
+
+```
+```
 from mpl_toolkits.mplot3d import Axes3D
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
